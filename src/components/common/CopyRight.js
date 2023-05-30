@@ -7,7 +7,7 @@ const CopyRight = () => {
                <div className="container">
                   <div className="row">
                      <div className="col-md-12">
-                        <p>© 2023 All Rights Reserved. <a href="https://html.design/"> Free Html Templates</a></p>
+                        <p>© 2023 All Rights Reserved. <a href="https://abc.com/"> Developers</a></p>
                      </div>
                   </div>
                </div>
